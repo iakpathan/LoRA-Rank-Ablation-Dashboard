@@ -87,16 +87,6 @@ Rank controls:
 
 ---
 
-### 🔹 Key Findings (Actual Output)
-
-
-::contentReference[oaicite:0]{index=0}
-Pareto optimal rank : r=16
-Diminishing returns at : r=8
-VRAM cost r=4→r=64 : +0.5 GB
-Perplexity gain : 0.060
-Recommendation : r=16
-
 
 ---
 
